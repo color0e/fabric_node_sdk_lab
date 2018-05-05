@@ -1,2 +1,2 @@
-# fabric_node_sdk_project
+# Fabric_sdk_Lab
 fabric 노드 sdk 연구실
